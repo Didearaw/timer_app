@@ -1,5 +1,3 @@
-```markdown
-
 # ⏰ Timer Telegram Notifier
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
@@ -30,7 +28,6 @@
    ```bash
    git clone https://github.com/didearaw/timer_app.git
    cd timer_app
-   ```
 
 2. **Создайте виртуальное окружение**
    ```bash
