@@ -13,8 +13,8 @@ app = Flask(__name__)
 app.config['SECRET_KEY'] = 'your-secret-key-here-change-it'
 
 # --- Настройки Telegram ---
-TELEGRAM_TOKEN = "8244166493:AAG3vlxDbtfSypIHvTykd9SRNVtuJ8JCPC0"
-TELEGRAM_CHAT_ID = "330321063"
+TELEGRAM_TOKEN = ""  # укажите в переменной окружения
+TELEGRAM_CHAT_ID = ""  # укажите в переменной окружения
 
 # --- Функция для отправки сообщений в Telegram ---
 def send_telegram_message(message):
