@@ -1,4 +1,5 @@
 ```markdown
+
 # ⏰ Timer Telegram Notifier
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
@@ -50,6 +51,7 @@
 5. **Запустите приложение**
    ```bash
    python app.py
+   
    ```
 
 6. **Откройте в браузере** → `http://127.0.0.1:5000`
